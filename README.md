@@ -1,2 +1,3 @@
-＃高丽史莱姆
+＃GoughSlime
+
 none
